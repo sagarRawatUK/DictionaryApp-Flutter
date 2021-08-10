@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241407472430",
+    "project_id": "dictionaryapp-1e09e",
+    "storage_bucket": "dictionaryapp-1e09e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241407472430:android:09a180fef355b9773c40bf",
+        "android_client_info": {
+          "package_name": "com.flutter.dictionaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241407472430-q1iod36jdbm3b60pesj5gn19sphaepff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.dictionaryapp",
+            "certificate_hash": "53e8655dc21e56372e871ec7b42dd1f053db82ba"
+          }
+        },
+        {
+          "client_id": "241407472430-1upfmv4nmhag5okv542csq76ueijnicr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhWDUUo-ehXhWJoqBOgWs4M_yLhnhZpDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241407472430-1upfmv4nmhag5okv542csq76ueijnicr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
